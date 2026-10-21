@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   // Link do checkout (Hotmart, Kiwify, Eduzz, Mercado Pago, Stripe etc.).
   // Todos os botões "Quero o ebook" do site apontam para este link.
   // Enquanto estiver vazio, o botão da oferta mostra "Disponível em breve".
-  checkoutUrl: "",
+  checkoutUrl: "https://pay.kiwify.com.br/GJP0vQM",
 
   // Preço exibido na página (somente texto, sem "R$").
   preco: "29,89",
